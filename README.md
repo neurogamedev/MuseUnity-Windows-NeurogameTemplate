@@ -26,7 +26,7 @@ Yes, all together, all caps.
 ## How can I learn to make neurogames?
 
 You need to know how to make games first.  
-Then, I recommend checking The Wiki for more information on the "neuro" part of neurogames.  
+Then, I recommend checking [This Template's Wiki](https://github.com/neurogamedev/MuseUnity-Windows-NeurogameTemplate/wiki) for more information on the "neuro" part of neurogames.  
 
 ## The shoulders of giants
 
