@@ -6,9 +6,9 @@ Turn your Bluetooth on and hit play. **You don't need to connect your Muse 2 to 
 It is recommended to use a headband with a full battery, adjust it well and avoid any headgear that could phisically interfere with its placement.  
 Headphones, for instance, can skew the placement and interfere with the electrodes' coontact with your skin.
 
-![UnityMuse-NeurogameTemplate-Windows](https://github.com/neurogamedev/MuseUnity-NeurogameTemplate-Windows/assets/88777150/89707b3c-df38-4edd-afae-19037033a548)  
-  
-![UnityMuse-TestScene](https://github.com/neurogamedev/MuseUnity-NeurogameTemplate-Windows/assets/88777150/ea7afce4-02e8-4bbb-a1df-bc2492320373)
+![UnityMuse-NeurogameTemplate-Window](https://github.com/user-attachments/assets/81d5d1fa-91e6-4e93-813d-99f146cecb59)
+
+![UnityMuse-TestScene](https://github.com/user-attachments/assets/c598fb41-75d6-4a85-b8e4-5e70f5c1c87e)
 
 ## This is a build, how can I access the source code?
 
