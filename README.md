@@ -1,6 +1,7 @@
 #   Demo Template for Windows platforms using the Muse headset. Built in Unity. 
 
-This Neurogame Template Demo is made in Unity 6 Preview, built upon Interaxon's Muse SDK. Check examples of how your Neurosity device can easily be used in-game.  
+This Neurogame Template Demo is made in Unity 6 Preview, built upon Interaxon's Muse SDK.  
+Check examples of how your Neurosity device can easily be used in-game.  
 Turn your Bluetooth on and hit play. **You don't need to connect your Muse 2 to your PC's Bluetooth devices beforehand.**  
 
 It is recommended to use a headband with a full battery, adjust it well and avoid any headgear that could phisically interfere with its placement.  
