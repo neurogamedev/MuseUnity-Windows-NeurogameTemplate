@@ -5,7 +5,7 @@ Check examples of how your Neurosity device can easily be used in-game.
 Turn your Bluetooth on and hit play. **You don't need to connect your Muse 2 to your PC's Bluetooth devices beforehand.**  
 
 It is recommended to use a headband with a full battery, adjust it well and avoid any headgear that could phisically interfere with its placement.  
-Headphones, for instance, can skew the placement and interfere with the electrodes' coontact with your skin.
+Headphones, for instance, can skew the placement and interfere with the electrodes' contact with your skin.
 
 ![UnityMuse-NeurogameTemplate-Window](https://github.com/user-attachments/assets/81d5d1fa-91e6-4e93-813d-99f146cecb59)
 
@@ -14,6 +14,7 @@ Headphones, for instance, can skew the placement and interfere with the electrod
 ## This is a build, how can I access the source code?
 
 Fill this form: [https://forms.gle/cAxFKEiN4tBqzwaQ8](https://forms.gle/cAxFKEiN4tBqzwaQ8)  
+**Yes, there is one separate form per platform.**  
   
 As per my Distribution Agreement, I must collect your data so I can inform Interaxon who is using their SDK.  
 After you send the info, including your GitHub account, I can add you to the private repository for you to access the source code.  
