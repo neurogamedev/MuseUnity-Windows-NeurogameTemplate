@@ -21,7 +21,7 @@ After you send the info, including your GitHub account, I can add you to the pri
 
 ## Where do I get a headset to play this demo?
 
-You can buy your own Muse headset at the [Choose Muse store](https://choosemuse.com/). I recommend the Muse 2 headset.  
+You can buy your own Muse headset at the [Choose Muse store](https://choosemuse.com/neurogamedev). I recommend the Muse 2 headset.  
 You can get 15% off if you use my affiliate code: NEUROGAMEDEV  
 Yes, all together, all caps.  
 
